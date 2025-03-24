@@ -1,4 +1,4 @@
-import QtQuick 2.9
+import QtQuick
 
 Rectangle {
     id: root
@@ -6,7 +6,7 @@ Rectangle {
 
     AnimatedImage {
         id: helix
-        source: "Helix-Ring-Dark.gif"
+        source: "images/Helix-Ring-Dark.gif"
         anchors.centerIn: parent
     }
 }

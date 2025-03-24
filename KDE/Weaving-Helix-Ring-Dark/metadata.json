@@ -1,0 +1,20 @@
+{
+    "KPackageStructure": "Plasma/LookAndFeel",
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "pro@crow.contact",
+                "Name": "Crow"
+            }
+        ],
+        "Category": "",
+        "Description": "Weaving Helix Ring Splashscreen for KDE 6",
+        "Id": "Weaving-Helix-Ring-Dark",
+        "License": "Unlicense",
+        "Name": "Weaving Helix Ring Dark",
+        "Website": "https://github.com/Celeths"
+    },
+    "Keywords": "loop;load;minimal",
+    "X-Plasma-APIVersion": "2"
+}
+
