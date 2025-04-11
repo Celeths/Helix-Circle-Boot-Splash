@@ -1,12 +1,19 @@
 # Weaving Helix Ring Splashscreen
- A boot splashscreen based with a weaving helix circle loop. The splashscreen is a simple looping 450x450px gif centered in the screen.
+A splashscreen based of a weaving helix circle looping animation. The splashscreen is a simple looping 450x450px gif centered in the screen with a solid background.
 
-There is a dark and light (inverted dark) version. There is also a currently unnused transparent version in the main Preview folder.
+There is a **dark and light** (inverted dark) version. There is also a currently unnused transparent version in the main Preview folder.
 
+| Dark Version | Light Version |
+|:----------|:----------|
+| <img src="Previews/Helix-Ring-Dark-Animated-Preview.gif" alt="Preview" width="100"> <br> Dark Animation Preview | <img src="Previews/Helix-Ring-Light-Animated-Preview.gif" alt="Preview" width="100"> <br> Light Animation Preview |
+| <img src="Previews/Helix-Ring-Dark-Preview.png" alt="Preview" width="200"> <br> Dark Splashscreen Preview | <img src="Previews/Helix-Ring-Light-Preview.png" alt="Preview" width="200"> <br> Light Splashscreen Preview |
 
-![picture](Previews/Helix-Ring-Light-Animated-Preview.png)
+This was originally built for KDE Plasma 6, but I am trying to make it fairly universal.
 
-<div align="center">
-  <img src="Previews/Helix-Ring-Light-Animated-Preview.gif" alt="Look at this crow" width="400">
-  <p><em>Yes, it lives in the preview folder. Just like you live in denial.</em></p>
-</div>
+**Project Roadmap**
+
+| Format | Status |
+|:----------|:----------|
+| KDE Plasma 6 | :white_check_mark: |
+| KDE Plasma Generic| :white_check_mark: |
+| Plymouth| :x:  |
